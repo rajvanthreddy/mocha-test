@@ -1,6 +1,5 @@
 const assert  = require('assert');
 
-
 const pluralize = require('../lib/example').pluralize;
 
 describe('example', function () {
