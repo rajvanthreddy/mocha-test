@@ -3,7 +3,7 @@
 
 
 
-Minimal Mocha and Istanbul reference repo.
+Minimal Mocha and Istanbul reference repo .
    
 
 
