@@ -1,4 +1,5 @@
 {
+  
   "name": "mocha-nyc-in-5m",
   "version": "0.0.1",
   "description": "minimal mocha/nyc setup",
