@@ -5,6 +5,7 @@
   "version": "0.0.1",
   
   "description": "minimal mocha/nyc setup",
+  
   "scripts": {
     "test":     "mocha --reporter dot",
     "coverage": "nyc --reporter html --reporter text npm test"
