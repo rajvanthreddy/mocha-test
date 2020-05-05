@@ -4,7 +4,6 @@
 
 
 Minimal Mocha and Istanbul reference repo .
-   
 
 
 
